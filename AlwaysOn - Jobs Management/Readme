@@ -1,0 +1,1 @@
+Além dos scripts, é necessário criar linkedserver entre os nós do AG para que seja possível fazer a atualização da tabela de controle dos Jobs ativos/inativos.
